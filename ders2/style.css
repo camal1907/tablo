@@ -1,0 +1,49 @@
+
+.input{
+    border: 1px solid rgb(170, 168, 168);
+    border-radius: 10px;
+    width: 1000px;
+    height: 40px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.but{
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: orange;
+    color: white;
+    font-size: 13px;
+    margin-left: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 84%;
+    margin-left: 10px;
+    border-radius: 200px;
+    
+}
+table, th, td {
+   
+    
+    border-radius: 6px;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    padding-right: 75px;
+    height: 30px;
+    
+}
+td {
+    border: 1px solid orange;
+   
+}
+.th1{
+    background-color: rgb(234, 232, 232);
+    border-radius: 4px;
+}
+ img{
+    width: 20px;
+    height: 20px;
+ }
